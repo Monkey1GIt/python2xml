@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss version="2.0">
+		<channel>
+			<title>Cfan应用</title>
+			<link>http://www.cfan.com.cn/technic/</link>
+			<description>Made By Monkey</description>
+			<generator>Python3</generator>
+			<language>zh-cn</language>
+			<lastBuildDate>2019-03-24 182525</lastBuildDate>
+		</channel>
+	</rss>
